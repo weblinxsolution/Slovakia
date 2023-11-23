@@ -263,3 +263,42 @@ h2 {
     z-index: 1;
     width: 80%;
 }
+
+.povedali {
+    background-image: url('/assets/images/image-7.png');
+    background-size: cover;
+    background-position: center;
+    padding-top: 4%;
+    padding-bottom: 4%;
+}
+
+.darkblue {
+    background-color: #090b17;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+
+.lightblue {
+    background-color: #0e1225;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+
+.there-links ul {
+    padding: 0;
+}
+
+.there-links ul li a {
+    color: #FFF;
+    font-weight: 200;
+}
+
+.there-links ul li {
+    margin-top: 5px;
+}
+.placment__img{
+    width: 60px;
+}
+.adjustment{
+    margin-bottom: 10.1%;
+}
