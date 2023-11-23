@@ -40,7 +40,7 @@
     }
 }
 
-@media (max-width:370px) {
+@media (max-width:399px) {
     h1 {
         font-size: 36px;
     }
@@ -54,5 +54,8 @@
     }
     .text-small{
         font-size: 9px;
+    }
+    .pijaro{
+        display: none !important;
     }
 }

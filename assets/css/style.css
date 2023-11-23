@@ -148,8 +148,11 @@ h2 {
     display: flex;
     align-items: center;
     justify-content: center;
+    margin-bottom: 0;
 }
-
+.transparent {
+    margin-top: 16px;
+}
 .nav-area ul li {
     padding-top: .5rem;
     padding-bottom: .5rem;
@@ -164,14 +167,19 @@ h2 {
 .banner-bg {
     background-image: url('/assets/images/banner__img.jpg');
     background-repeat: no-repeat;
+    background-size: cover;
     /* margin-top: -69px; */
     position: relative;
     /* z-index: -1; */
 }
 
+.blogs_slider {
+    margin-top: 8%;
+}
+
 .inner-pad {
-    padding-top: 5%;
-    padding-bottom: 5%;
+    padding-top: 6%;
+    padding-bottom: 6%;
 
 }
 
@@ -274,14 +282,14 @@ h2 {
 
 .darkblue {
     background-color: #090b17;
-    padding-top: 5%;
-    padding-bottom: 5%;
+    padding-top: 8%;
+    padding-bottom: 8%;
 }
 
 .lightblue {
     background-color: #0e1225;
-    padding-top: 5%;
-    padding-bottom: 5%;
+    padding-top: 8%;
+    padding-bottom: 8%;
 }
 
 .there-links ul {
@@ -302,7 +310,11 @@ h2 {
 }
 
 .adjustment {
-    margin-bottom: 10.1%;
+    margin-bottom: 56px;
+}
+
+.text-grey {
+    color: #6d707c;
 }
 
 .hamgurger i {
@@ -313,7 +325,7 @@ h2 {
 /* .offcanvas{
     background-color: #000 !important;
 } */
-.mobile-menu_right ul{
+.mobile-menu_right ul {
     padding: 0;
     display: flex;
     flex-direction: column;
