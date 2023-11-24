@@ -312,7 +312,7 @@ h2 {
 }
 
 .adjustment {
-    margin-bottom: 56px;
+    margin-bottom: 57px !important;
 }
 
 .text-grey {
@@ -341,4 +341,141 @@ h2 {
     z-index: 999;
     bottom: 1rem;
     right: 1.5rem;
+}
+
+/* Page 2 */
+.page-2-banner {
+    background-image: url('/assets/images/image-8.png');
+    background-size: cover;
+    padding-top: 13%;
+    padding-bottom: 5%;
+}
+
+.peach-bg {
+    background-color: #f0ece3;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+
+.table__image {
+    width: 350px;
+}
+
+.table-area table {
+    width: 100%;
+}
+
+.table-area table thead tr th {
+    background-color: #f0ece3;
+    padding: 20px;
+}
+
+.table-area table tbody tr td {
+    padding: 20px;
+    border-bottom: 1px solid #f0ece3;
+}
+
+th {
+    font-size: 14px;
+}
+
+td {
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.bg-green-card {
+    background-color: #64843d;
+    padding: 1rem .5rem;
+    transform: translateY(-25px);
+}
+
+.tokyo {
+    background-color: #64843d;
+    font-size: 10px;
+    padding: 3px 3px;
+    position: absolute;
+    color: #FFF;
+    top: -10px;
+    left: 10px;
+}
+
+.my-input {
+    background-color: transparent;
+    border-radius: 0;
+    color: #FFF;
+}
+
+input::placeholder {
+    color: #FFF !important;
+}
+
+.form-control:focus {
+    color: var(--bs-body-color);
+    background-color: transparent;
+    border-color: #FFF;
+    outline: 0;
+    box-shadow: none;
+}
+
+.form-select {
+    font-size: 14px;
+    padding: 8px 10px;
+}
+
+.range-feild label {
+    color: #FFF;
+    font-size: 12px;
+}
+
+/* Custom styling for the range input */
+#customRange1 {
+    /* Set the color of the line (track) to white */
+    --thumb-color: white;
+    --track-color: white;
+    --track-height: 2px;
+    /* Set the height of the track */
+    --thumb-size: 12px;
+    /* Set the size of the thumb */
+}
+
+/* Styling for the thumb (ball) */
+#customRange1::-webkit-slider-thumb {
+    /* Set the color and size of the thumb */
+    background-color: var(--thumb-color);
+    border: 1px solid var(--thumb-color);
+    width: var(--thumb-size);
+    height: var(--thumb-size);
+    margin-top: -5px;
+    /* Adjust the margin to center the thumb vertically */
+}
+
+/* Styling for the track (line) */
+#customRange1::-webkit-slider-runnable-track {
+    /* Set the color and height for the track */
+    background-color: var(--track-color);
+    height: var(--track-height);
+}
+
+/* Styling for the value display */
+.slider-value {
+    position: relative;
+    color: white;
+    font-size: 14px;
+    text-align: start;
+    margin-top: -10px;
+    /* Adjust the margin to position the text below the thumb */
+}
+
+.check-box input {
+    background-color: transparent;
+    border-radius: 0 !important;
+}
+
+.text-smaller {
+    font-size: 10px;
+}
+
+#risk-width {
+    width: 85.333333%;
 }
