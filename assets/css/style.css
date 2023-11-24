@@ -347,6 +347,7 @@ h2 {
 .page-2-banner {
     background-image: url('/assets/images/image-8.png');
     background-size: cover;
+    background-position: center;
     padding-top: 13%;
     padding-bottom: 5%;
 }
@@ -355,12 +356,22 @@ h2 {
     background-image: url('/assets/images/image-9.png');
     background-size: cover;
     padding-top: 13%;
+    background-position: center;
     padding-bottom: 5%;
 }
 
 .page-4-banner {
     background-image: url('/assets/images/image-11.png');
     background-size: cover;
+    background-position: center;
+    padding-top: 13%;
+    padding-bottom: 5%;
+}
+
+.page-5-banner {
+    background-image: url('/assets/images/image-13.png');
+    background-size: cover;
+    background-position: center;
     padding-top: 13%;
     padding-bottom: 5%;
 }
@@ -498,6 +509,7 @@ input::placeholder {
     padding-top: 1.5rem;
     padding-bottom: 1.5rem;
 }
-.cursor{
+
+.cursor {
     cursor: pointer;
 }
