@@ -343,9 +343,15 @@ h2 {
     right: 1.5rem;
 }
 
-/* Page 2 */
+
 .page-2-banner {
     background-image: url('/assets/images/image-8.png');
+    background-size: cover;
+    padding-top: 13%;
+    padding-bottom: 5%;
+}
+.page-3-banner {
+    background-image: url('/assets/images/image-9.png');
     background-size: cover;
     padding-top: 13%;
     padding-bottom: 5%;
