@@ -350,12 +350,14 @@ h2 {
     padding-top: 13%;
     padding-bottom: 5%;
 }
+
 .page-3-banner {
     background-image: url('/assets/images/image-9.png');
     background-size: cover;
     padding-top: 13%;
     padding-bottom: 5%;
 }
+
 .page-4-banner {
     background-image: url('/assets/images/image-11.png');
     background-size: cover;
@@ -490,4 +492,9 @@ input::placeholder {
 
 #risk-width {
     width: 85.333333%;
+}
+
+.table__image {
+    padding-top: 1.5rem;
+    padding-bottom: 1.5rem;
 }
