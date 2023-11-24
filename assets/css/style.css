@@ -374,6 +374,13 @@ h2 {
     padding-top: 13%;
     padding-bottom: 5%;
 }
+.page-6-banner {
+    background-image: url('/assets/images/image-14.png');
+    background-size: cover;
+    background-position: center;
+    padding-top: 13%;
+    padding-bottom: 5%;
+}
 
 .peach-bg {
     background-color: #f0ece3;
