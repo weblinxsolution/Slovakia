@@ -150,9 +150,11 @@ h2 {
     justify-content: center;
     margin-bottom: 0;
 }
+
 .transparent {
     margin-top: 16px;
 }
+
 .nav-area ul li {
     padding-top: .5rem;
     padding-bottom: .5rem;
@@ -332,4 +334,11 @@ h2 {
     gap: 1rem;
     justify-content: center;
     align-items: center;
+}
+
+.back-top-button {
+    position: fixed;
+    z-index: 999;
+    bottom: 1rem;
+    right: 1.5rem;
 }

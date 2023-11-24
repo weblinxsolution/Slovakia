@@ -38,9 +38,20 @@
     .title-image {
         left: 35%;
     }
+    .transparent {
+        margin-top: 0;
+    }
+
 }
 
 @media (max-width:399px) {
+    .btn-brown button{
+        font-size: 10px;
+    }
+    .bg-green{
+        padding: 1rem;
+    }
+    
     h1 {
         font-size: 36px;
     }
@@ -52,10 +63,12 @@
     p {
         font-size: 10px;
     }
-    .text-small{
+
+    .text-small {
         font-size: 9px;
     }
-    .pijaro{
+
+    .pijaro {
         display: none !important;
     }
 }
