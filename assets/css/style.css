@@ -126,6 +126,10 @@ h2 {
 
 }
 
+.text-brown {
+    color: #6f4741;
+}
+
 .web__logo {
     width: 70px;
 }
@@ -345,13 +349,17 @@ h2 {
     right: 1.5rem;
 }
 
-
-.page-2-banner {
-    background-image: url('/assets/images/image-8.png');
+.banner-bg-2 {
+    background-image: url('/assets/images/image-18.png');
     background-size: cover;
     background-position: center;
     padding-top: 13%;
     padding-bottom: 5%;
+}
+
+.page-2-banner {
+    background-image: url('/assets/images/image-8.png');
+
 }
 
 .page-3-banner {
@@ -565,4 +573,27 @@ input::placeholder {
     background-image: url("/assets/images/select-arrow.png") !important;
     background-size: 13px;
 
+}
+
+.contact_img {
+    width: 45px;
+}
+
+.text-small-btn {
+    font-size: 12px !important;
+    font-weight: 700;
+}
+
+textarea {
+    color: #FFF !important;
+    padding-top: 1rem;
+}
+
+input {
+
+    color: #FFF !important;
+}
+
+textarea::placeholder {
+    color: #FFF !important;
 }
