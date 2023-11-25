@@ -7,9 +7,12 @@ https://mi-to-slovakia.netlify.app/plotové-laty
 https://mi-to-slovakia.netlify.app/palubová-dlážkovica
 https://mi-to-slovakia.netlify.app/krycie-lišty
 https://mi-to-slovakia.netlify.app/kartáčovaná-dlážkovica
-https://mi-to-slovakia.netlify.app/hobľované-hranoly			8 rows
+https://mi-to-slovakia.netlify.app/hobľované-hranoly		
 https://mi-to-slovakia.netlify.app/hobľované-dosky
-
+https://mi-to-slovakia.netlify.app/kontakt
+https://mi-to-slovakia.netlify.app/cenová-ponuka
+https://mi-to-slovakia.netlify.app/cenník
+https://mi-to-slovakia.netlify.app/o-nás
 
 
 
