@@ -400,6 +400,7 @@ h2 {
     padding-top: 13%;
     padding-bottom: 5%;
 }
+
 .page-9-banner {
     background-image: url('/assets/images/image-17.png');
     background-size: cover;
@@ -548,4 +549,20 @@ input::placeholder {
 
 .cursor {
     cursor: pointer;
+}
+
+.bg-green-card select option {
+    background-color: #64843d;
+}
+
+.form-select:focus {
+    border-color: #FFF;
+    outline: 0;
+    box-shadow: none;
+}
+
+.form-select {
+    background-image: url("/assets/images/select-arrow.png") !important;
+    background-size: 13px;
+
 }
