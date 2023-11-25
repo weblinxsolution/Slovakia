@@ -417,6 +417,14 @@ h2 {
     padding-bottom: 5%;
 }
 
+.page-10-banner {
+    background-image: url('/assets/images/image-19.png');
+    background-size: cover;
+    background-position: center;
+    padding-top: 13%;
+    padding-bottom: 5%;
+}
+
 .peach-bg {
     background-color: #f0ece3;
     padding-top: 5%;
@@ -620,4 +628,9 @@ textarea::placeholder {
     padding-top: 1rem;
     padding-bottom: 1rem;
     border: 1px solid #c6bca6;
+}
+
+.wooden-area-1 {
+    transform: translateY(50px);
+    margin-bottom: 3rem;
 }
