@@ -454,10 +454,24 @@ td {
     font-weight: 500;
 }
 
+.my-map iframe {
+    width: 100%;
+}
+
 .bg-green-card {
     background-color: #64843d;
     padding: 2rem;
     transform: translateY(-25px);
+}
+
+.contact-form {
+    transform: translateY(-30px);
+
+}
+
+.no-tranfrom {
+    transform: translateY(0px) !important;
+
 }
 
 .tokyo {
