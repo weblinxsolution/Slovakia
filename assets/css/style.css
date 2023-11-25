@@ -610,4 +610,14 @@ input {
 
 textarea::placeholder {
     color: #FFF !important;
+    font-size: 12px;
+    padding-top: 5px;
+}
+
+.nav-tabs button {
+    background-color: transparent;
+    width: 100%;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    border: 1px solid #c6bca6;
 }
