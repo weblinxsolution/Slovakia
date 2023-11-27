@@ -634,3 +634,7 @@ textarea::placeholder {
     transform: translateY(50px);
     margin-bottom: 3rem;
 }
+
+.nav-tabs {
+    border-bottom: none !important;
+}
